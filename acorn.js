@@ -1,5 +1,5 @@
-/**
- * @license
+/#*
+** @license
  * Copyright 2012 Marijn Haverbeke
  * SPDX-License-Identifier: MIT
  */
@@ -2276,3 +2276,4 @@
   }
 
 });
+ 
